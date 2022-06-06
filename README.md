@@ -1,1 +1,4 @@
 # awesome
+
+var sharom = "awesome";
+
